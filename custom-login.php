@@ -7,7 +7,7 @@
  * Version: 1.0
  * Author: Marta Torre
  * Author URI: #
- * License: GPL+2
+ * License: GPLv2
  * 
  */
 
